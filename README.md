@@ -4,8 +4,7 @@
 
 Simple Colab one click Automatic1111's WebUI deployment.
 
-## Stable Diffusion Web UI
+## Reference
 [https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
 
-## stable-diffusion-webui-colab
 [https://github.com/camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab).
